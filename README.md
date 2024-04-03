@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @jkvalendez
-- 👀 I’m interested in Web Development, Cloud Engineering and DevOps
-- 🌱 I’m currently learning JavaScript and TypeScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via my website
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in Web Development, Data Engineering, Cloud Engineering and DevOps
 <!---- ⚡ Fun fact: ...--->
 
 <!---
